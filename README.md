@@ -11,3 +11,7 @@
 
 4. À quoi sert la commande `git remote -vv` ?
  - lister les alias des dépôts distants configurés sur le dépôt local
+
+5. Quels sont les 2 types de branches qui existent dans un dépôt git *sur* l'ordinateur d'un·e développeur·se ?
+ - les locales
+ - les distantes
