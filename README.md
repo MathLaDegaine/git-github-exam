@@ -46,3 +46,6 @@
 
 15. Dans quelle zone du dépôt est-ce que les modifications sont regroupées *avant* de créer un commit ?
  - le stage
+
+16. Lorsque vous résolvez un conflit, quelle est la dernière commande git que vous tapez ?
+ - commit
