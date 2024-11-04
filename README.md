@@ -40,3 +40,6 @@
 
 13. Dans quelles conditions est-ce qu'un conflit apparaît avec git ?
  - Lorsqu'il y a un merge entre deux branches qui modifient la même partie d'un fichier
+
+14. Lorsqu'il y a un conflit, qu'indique la commande `git status` sur les fichiers qui demandent une résolution ?
+ - both modified
