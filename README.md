@@ -65,3 +65,6 @@
 
 21. Quelle est une conséquence potentielle de l'utilisation de `git rebase` sur une branche publique ?
  - Les autres collaborateurs ayant déjà récupéré la branche peuvent rencontrer des problèmes de synchronisation avec l'historique modifié.
+
+22. Les branches de suivi (*tracking branch*) sont:
+ - Des branches locales configurées pour suivre les modifications d'une branche distante.
