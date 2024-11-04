@@ -68,3 +68,6 @@
 
 22. Les branches de suivi (*tracking branch*) sont:
  - Des branches locales configurées pour suivre les modifications d'une branche distante.
+
+23. Pour mettre à jour (dans le même état) les branches de suivi (*tracking branch*) avec les branches distantes, il faut:
+  - Utiliser `git fetch`.
