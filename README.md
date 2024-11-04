@@ -59,3 +59,6 @@
 
 19. Après avoir accepté une contribution sur la branche principale sur Github, que devez vous faire pour mettre à jour votre branche principale localement ?
  - se mettre sur la branche principale et faire un git pull
+
+20. Qu'est-ce que fait la commande `git merge` ?
+ -  fusionne l'historique d'une branche avec une autre en créant un nouveau commit de fusion;
