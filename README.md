@@ -27,3 +27,7 @@
 
 9. Quel est le chemin du fichier de configuration locale d'un dépôt git ?
  - .git/config
+
+10. À la première utilisation, quelles sont les informations nécessaires pour créer un commit ?
+ - le nom de l'utilisateur git
+ - l'adresse mail de l'utilisateur git
