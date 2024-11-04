@@ -8,3 +8,6 @@
  - SSH
  - HTTP
  - HTTPS
+
+4. À quoi sert la commande `git remote -vv` ?
+ - lister les alias des dépôts distants configurés sur le dépôt local
