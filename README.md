@@ -34,3 +34,6 @@
 
 11. Quelle est la commande qui permet de mettre à jour la branche sur laquelle on se trouve par rapport à un dépôt distant ?
  - pull
+
+12. Quelle est la commande qui permet de se mettre sur n'importe quel commit d'un historique git ?
+ - checkout
