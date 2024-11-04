@@ -54,3 +54,5 @@
  - push
 
 
+18. Comment s'appelle le mécanisme qui permet d'accepter ou de refuser une contribution sur un dépôt GitHub ?
+ - Pull Request
