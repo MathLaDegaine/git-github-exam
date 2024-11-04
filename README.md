@@ -37,3 +37,6 @@
 
 12. Quelle est la commande qui permet de se mettre sur n'importe quel commit d'un historique git ?
  - checkout
+
+13. Dans quelles conditions est-ce qu'un conflit apparaît avec git ?
+ - Lorsqu'il y a un merge entre deux branches qui modifient la même partie d'un fichier
