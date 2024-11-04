@@ -56,3 +56,6 @@
 
 18. Comment s'appelle le mécanisme qui permet d'accepter ou de refuser une contribution sur un dépôt GitHub ?
  - Pull Request
+
+19. Après avoir accepté une contribution sur la branche principale sur Github, que devez vous faire pour mettre à jour votre branche principale localement ?
+ - se mettre sur la branche principale et faire un git pull
